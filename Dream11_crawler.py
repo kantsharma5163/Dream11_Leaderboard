@@ -49,3 +49,4 @@ data=pd.DataFrame(zip(team_list[1:],player_list[0::11],player_list[1::11],player
                       player_list[5::11],player_list[6::11],player_list[7::11],player_list[8::11],player_list[9::11],player_list[10::11]),
                   columns=["TEAM","Pl-1","Pl-2","Pl-3","Pl-4","Pl-5","Pl-6","Pl-7","Pl-8","Pl-9","Pl-10","Pl-11"])
 data.to_excel("DREAM11.xlsx")
+Ma ka asirvad14
